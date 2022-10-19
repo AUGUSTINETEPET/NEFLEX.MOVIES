@@ -2,3 +2,5 @@
 
 name= "no retreat"
 print=(name)
+
+school = jjtech
